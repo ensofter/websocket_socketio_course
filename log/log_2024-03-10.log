@@ -1,0 +1,201 @@
+2024-03-10 14:41:47,184 - [INFO | ex1.py:8 > Создаем экземпляр синхронного сервера Socket.IO
+2024-03-10 14:41:47,192 - [INFO | ex1.py:11 > Создаем WSGI приложение и связываем его с Socket.IO
+2024-03-10 14:41:47,192 - [INFO | ex1.py:14 > Обработчик события подключения
+2024-03-10 14:41:47,192 - [INFO | ex1.py:20 > Обработчик события отключения
+2024-03-10 14:41:47,192 - [INFO | ex1.py:25 > Запускаем eventlet веб-сервер
+2024-03-10 15:17:09,654 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x10687e3b0>
+2024-03-10 15:17:09,655 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x10687e530>
+2024-03-10 15:17:09,655 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:17:22,538 - [INFO | practica1.py:22 > добавили sid в список ['EEs-eSRf87eTaeO3AAAB']
+2024-03-10 15:17:31,037 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:38:50,929 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x101c6e830>
+2024-03-10 15:38:50,929 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x101c6e8c0>
+2024-03-10 15:38:50,929 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:39:54,870 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x106462800>
+2024-03-10 15:39:54,871 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x106462890>
+2024-03-10 15:39:54,871 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:41:24,339 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x101a4e800>
+2024-03-10 15:41:24,339 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x101a4e890>
+2024-03-10 15:41:24,339 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:41:44,223 - [INFO | practica1.py:22 > добавили sid в список ['5lyHoeCjTEfvUAK9AAAB']
+2024-03-10 15:42:16,569 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:42:34,126 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x10274e830>
+2024-03-10 15:42:34,126 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x10274e8c0>
+2024-03-10 15:42:34,126 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:42:36,333 - [INFO | practica1.py:22 > добавили sid в список ['Ti09z3YlKnr41zqEAAAB']
+2024-03-10 15:42:52,347 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:42:56,743 - [INFO | practica1.py:22 > добавили sid в список ['WketDJaN1u1WyV5cAAAD']
+2024-03-10 15:43:37,791 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:44:11,850 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x104136860>
+2024-03-10 15:44:11,850 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x1041368f0>
+2024-03-10 15:44:11,850 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:44:16,358 - [INFO | practica1.py:22 > добавили sid в список ['cwrlMIFh6907St-rAAAB']
+2024-03-10 15:44:31,120 - [INFO | practica1.py:31 > Получили ивент get_users_online
+2024-03-10 15:44:46,541 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:46:16,379 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x105b6e890>
+2024-03-10 15:46:16,379 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x105b6e920>
+2024-03-10 15:46:16,379 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:46:22,143 - [INFO | practica1.py:22 > добавили sid в список ['MfyIEZCqszPQ40SpAAAB']
+2024-03-10 15:46:29,069 - [INFO | practica1.py:31 > Получили ивент get_users_online
+2024-03-10 15:46:39,918 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:46:40,618 - [INFO | practica1.py:22 > добавили sid в список ['77UZmCaDFPSvBV-qAAAD']
+2024-03-10 15:46:50,333 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:47:41,975 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x1045de890>
+2024-03-10 15:47:41,975 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x1045de920>
+2024-03-10 15:47:41,975 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:47:44,142 - [INFO | practica1.py:22 > добавили sid в список ['N3VxmSMqOZol41IUAAAB']
+2024-03-10 15:47:58,569 - [INFO | practica1.py:31 > Получили ивент get_users_online
+2024-03-10 15:48:09,369 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:52:45,114 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x1046468c0>
+2024-03-10 15:52:45,115 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x104646950>
+2024-03-10 15:52:45,115 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:52:47,787 - [INFO | practica1.py:22 > добавили sid в список ['93TX2t1uNLxpoe6-AAAB']
+2024-03-10 15:54:22,795 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:54:24,317 - [INFO | practica1.py:22 > добавили sid в список ['qksvdXYAXXVwBHN2AAAD']
+2024-03-10 15:54:42,494 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 15:55:01,271 - [INFO | practica1.py:31 > Получили ивент get_users_online {'w': 'z'}
+2024-03-10 15:55:30,417 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:56:46,398 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x1064f6830>
+2024-03-10 15:56:46,399 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x1064f68c0>
+2024-03-10 15:56:46,399 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:56:50,892 - [INFO | practica1.py:22 > добавили sid в список ['8Q4S3c0-nA6s-5xHAAAB']
+2024-03-10 15:56:58,293 - [INFO | practica1.py:31 > Получили ивент get_users_online {'w': 'z'}
+2024-03-10 15:57:07,224 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 15:57:22,994 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x10395a830>
+2024-03-10 15:57:22,994 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x10395a8c0>
+2024-03-10 15:57:22,994 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 15:57:25,629 - [INFO | practica1.py:22 > добавили sid в список ['jU6-mD0n-fz9xbWtAAAB']
+2024-03-10 15:57:29,958 - [INFO | practica1.py:31 > Получили ивент get_users_online {'w': 'z'}
+2024-03-10 15:58:47,341 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:00:06,866 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x104332800>
+2024-03-10 16:00:06,866 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x104332890>
+2024-03-10 16:00:06,866 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:00:12,361 - [INFO | practica1.py:22 > добавили sid в список ['Y4C-MVEzezOQRSbeAAAB']
+2024-03-10 16:00:51,245 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:04:13,542 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x103a82860>
+2024-03-10 16:04:13,542 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x103a828f0>
+2024-03-10 16:04:13,542 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:04:20,889 - [INFO | practica1.py:22 > добавили sid в список ['aggZYAtQFKy543B0AAAB']
+2024-03-10 16:04:29,397 - [INFO | practica1.py:31 > Получили ивент get_users_online {'w': 'z'}
+2024-03-10 16:04:42,890 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:05:26,964 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x102116860>
+2024-03-10 16:05:26,964 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x1021168f0>
+2024-03-10 16:05:26,964 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:05:29,793 - [INFO | practica1.py:22 > добавили sid в список ['2zraFRlhZK4C2FxvAAAB']
+2024-03-10 16:05:39,413 - [INFO | practica1.py:31 > Получили ивент get_users_online {'w': 'z'}
+2024-03-10 16:06:07,067 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:06:23,738 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x102016830>
+2024-03-10 16:06:23,738 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x1020168c0>
+2024-03-10 16:06:23,738 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:06:26,076 - [INFO | practica1.py:22 > добавили sid в список ['gDAyhXUGV5yCzcUtAAAB']
+2024-03-10 16:06:27,541 - [INFO | practica1.py:31 > Получили ивент get_users_online {'w': 'z'}
+2024-03-10 16:06:34,782 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:06:55,441 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x101b0a830>
+2024-03-10 16:06:55,441 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x101b0a8c0>
+2024-03-10 16:06:55,441 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:06:57,812 - [INFO | practica1.py:22 > добавили sid в список ['gBZdG9glXIjZFpOYAAAB']
+2024-03-10 16:07:01,316 - [INFO | practica1.py:31 > Получили ивент get_users_online {'w': 'z'}
+2024-03-10 16:07:17,862 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:07:30,828 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:07:46,019 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x103cf2860>
+2024-03-10 16:07:46,019 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x103cf28f0>
+2024-03-10 16:07:46,019 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:07:50,496 - [INFO | practica1.py:22 > добавили sid в список ['nhzQqcswAocOuJj2AAAB']
+2024-03-10 16:07:52,134 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:09:32,948 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:09:54,141 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x102566890>
+2024-03-10 16:09:54,141 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x102566920>
+2024-03-10 16:09:54,141 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:09:57,284 - [INFO | practica1.py:22 > добавили sid в список ['cxP9uqqqhe62kStgAAAB']
+2024-03-10 16:09:59,104 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:10:01,425 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:13:21,857 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x1020ae890>
+2024-03-10 16:13:21,857 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x1020ae920>
+2024-03-10 16:13:21,857 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:13:23,925 - [INFO | practica1.py:22 > добавили sid в список ['9qXz9nNJ5A3GYF90AAAB']
+2024-03-10 16:13:24,951 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:13:31,985 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:13:47,228 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x10413a860>
+2024-03-10 16:13:47,228 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x10413a8f0>
+2024-03-10 16:13:47,228 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:13:50,429 - [INFO | practica1.py:22 > добавили sid в список ['8Uzr5RGVhAEk86dxAAAB']
+2024-03-10 16:13:52,427 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:16:47,834 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:18:28,370 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x10602e890>
+2024-03-10 16:18:28,371 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x10602e920>
+2024-03-10 16:18:28,371 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:18:31,098 - [INFO | practica1.py:22 > добавили sid в список ['4vsy1LNxRI7nUf1oAAAB']
+2024-03-10 16:18:34,836 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:28:12,346 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:28:28,835 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x10273e890>
+2024-03-10 16:28:28,835 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x10273e920>
+2024-03-10 16:28:28,835 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:28:31,204 - [INFO | practica1.py:22 > добавили sid в список ['0Eopu_bIvZnOLrKTAAAB']
+2024-03-10 16:28:33,938 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:28:38,625 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:28:58,944 - [INFO | practica1.py:12 > Создали socket_io сервер <socketio.server.Server object at 0x1066a68c0>
+2024-03-10 16:28:58,944 - [INFO | practica1.py:14 > Создали WSGI приложение <socketio.middleware.WSGIApp object at 0x1066a6950>
+2024-03-10 16:28:58,944 - [INFO | practica1.py:18 > Написали обработчик события connect
+2024-03-10 16:29:01,537 - [INFO | practica1.py:22 > добавили sid в список ['r2xFXLbQ61eWuRd1AAAB']
+2024-03-10 16:29:02,867 - [INFO | practica1.py:31 > Получили ивент get_users_online {}
+2024-03-10 16:29:41,754 - [INFO | practica1.py:27 > удалили sid из списка []
+2024-03-10 16:40:23,863 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:40:23,863 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:40:41,886 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:40:41,886 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:41:06,639 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:41:06,639 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:42:07,544 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:42:07,544 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:42:11,308 - [INFO | practica2.py:22 > Добавили пользователя I9Q2mys7Z_kUBFTuAAAB
+2024-03-10 16:43:14,230 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:43:14,230 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:43:17,954 - [INFO | practica2.py:22 > Добавили пользователя dZxVpZcfg7LoMjIkAAAB
+2024-03-10 16:43:53,152 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:43:53,152 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:43:55,274 - [INFO | practica2.py:22 > Добавили пользователя VIbKXDaCn4BzsZsZAAAB
+2024-03-10 16:44:03,886 - [INFO | practica2.py:32 > Поступило клиентское событие get_online_users
+2024-03-10 16:44:03,887 - [INFO | practica2.py:34 > Отправили серверное событие users
+2024-03-10 16:47:09,426 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:47:09,426 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:47:12,954 - [INFO | practica2.py:22 > Добавили пользователя c9xctbY9ndUQ_cOqAAAB
+2024-03-10 16:47:15,742 - [INFO | practica2.py:32 > Поступило клиентское событие get_online_users
+2024-03-10 16:47:15,743 - [INFO | practica2.py:34 > Отправили серверное событие users
+2024-03-10 16:47:22,684 - [INFO | practica2.py:38 > Сюда попадаем только если для этого ивента нет обработчика
+2024-03-10 16:54:10,648 - [INFO | practica2.py:12 > Создаем сервер сокетов
+2024-03-10 16:54:10,648 - [INFO | practica2.py:14 > Создаем WSGI приложение
+2024-03-10 16:54:24,947 - [INFO | practica2.py:22 > Добавили пользователя 2aA-iz3VFaamz7QIAAAB
+2024-03-10 16:54:31,011 - [INFO | practica2.py:38 > Сюда попадаем только если для этого ивента нет обработчика
+2024-03-10 16:54:31,011 - [INFO | practica2.py:39 > Обработчика не событие get_online_users1 не существует
+2024-03-10 16:54:38,520 - [INFO | practica2.py:38 > Сюда попадаем только если для этого ивента нет обработчика
+2024-03-10 16:54:38,520 - [INFO | practica2.py:39 > Обработчика не событие asdfas не существует
+2024-03-10 16:54:42,050 - [INFO | practica2.py:38 > Сюда попадаем только если для этого ивента нет обработчика
+2024-03-10 16:54:42,050 - [INFO | practica2.py:39 > Обработчика не событие 123345 не существует
+2024-03-10 16:54:53,151 - [INFO | practica2.py:38 > Сюда попадаем только если для этого ивента нет обработчика
+2024-03-10 16:54:53,152 - [INFO | practica2.py:39 > Обработчика не событие get_users_online не существует
+2024-03-10 16:55:00,069 - [INFO | practica2.py:32 > Поступило клиентское событие get_online_users
+2024-03-10 16:55:00,070 - [INFO | practica2.py:34 > Отправили серверное событие users
+2024-03-10 16:55:08,358 - [INFO | practica2.py:44 > Поступило клиентское событие count_queries
+2024-03-10 17:12:48,835 - [INFO | practica3.py:11 > Создаем словарь в котором будем хранить счетчики для каждого полключенного пользователя
+2024-03-10 17:12:48,836 - [INFO | practica3.py:14 > Создаем сокет сервер
+2024-03-10 17:12:48,844 - [INFO | practica3.py:16 > Создаем WSGI приложение
+2024-03-10 17:12:53,126 - [INFO | practica3.py:23 > При коннекте создаем в словаре пользователя PMWc4ktPcMby9F_eAAAB -> count[sid]
+2024-03-10 17:13:01,851 - [INFO | practica3.py:23 > При коннекте создаем в словаре пользователя 5YkoYqaf6RQDB-lVAAAD -> count[sid]
+2024-03-10 17:13:12,285 - [INFO | practica3.py:37 > Поступило клиентсткое событие get_score
+2024-03-10 17:13:12,285 - [INFO | practica3.py:39 > Отправили серверное событие score
+2024-03-10 17:13:21,567 - [INFO | practica3.py:28 > Добавляем единичку
+2024-03-10 17:13:22,678 - [INFO | practica3.py:28 > Добавляем единичку
+2024-03-10 17:13:23,445 - [INFO | practica3.py:28 > Добавляем единичку
+2024-03-10 17:13:23,724 - [INFO | practica3.py:28 > Добавляем единичку
+2024-03-10 17:13:23,987 - [INFO | practica3.py:28 > Добавляем единичку
+2024-03-10 17:13:24,220 - [INFO | practica3.py:28 > Добавляем единичку
+2024-03-10 17:13:45,192 - [INFO | practica3.py:33 > Удаляем единичку
+2024-03-10 17:13:46,926 - [INFO | practica3.py:33 > Удаляем единичку
+2024-03-10 17:13:47,257 - [INFO | practica3.py:33 > Удаляем единичку
+2024-03-10 17:13:47,457 - [INFO | practica3.py:33 > Удаляем единичку
+2024-03-10 17:13:47,672 - [INFO | practica3.py:33 > Удаляем единичку
+2024-03-10 17:13:47,884 - [INFO | practica3.py:33 > Удаляем единичку
+2024-03-10 17:13:52,173 - [INFO | practica3.py:37 > Поступило клиентсткое событие get_score
+2024-03-10 17:13:52,174 - [INFO | practica3.py:39 > Отправили серверное событие score
+2024-03-10 17:14:05,256 - [INFO | practica3.py:37 > Поступило клиентсткое событие get_score
+2024-03-10 17:14:05,257 - [INFO | practica3.py:39 > Отправили серверное событие score
