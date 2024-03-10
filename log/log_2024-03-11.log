@@ -1,0 +1,4 @@
+2024-03-11 00:02:33,941 - [INFO | emit1.py:12 > Initialize new socketio Server <socketio.server.Server object at 0x103f6a1d0>
+2024-03-11 00:02:33,941 - [INFO | emit1.py:14 > Inittialize new wsgi app <socketio.middleware.WSGIApp object at 0x103f6a350>
+2024-03-11 00:02:50,548 - [INFO | emit1.py:12 > Initialize new socketio Server <socketio.server.Server object at 0x1039621d0>
+2024-03-11 00:02:50,548 - [INFO | emit1.py:14 > Inittialize new wsgi app <socketio.middleware.WSGIApp object at 0x103962350>
