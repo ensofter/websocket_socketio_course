@@ -2,3 +2,42 @@
 2024-03-11 00:02:33,941 - [INFO | emit1.py:14 > Inittialize new wsgi app <socketio.middleware.WSGIApp object at 0x103f6a350>
 2024-03-11 00:02:50,548 - [INFO | emit1.py:12 > Initialize new socketio Server <socketio.server.Server object at 0x1039621d0>
 2024-03-11 00:02:50,548 - [INFO | emit1.py:14 > Inittialize new wsgi app <socketio.middleware.WSGIApp object at 0x103962350>
+2024-03-11 00:12:34,922 - [INFO | emit2.py:12 > Create new socketio Server <socketio.server.Server object at 0x103db2800>
+2024-03-11 00:12:34,922 - [INFO | emit2.py:14 > Create new wsgi app <socketio.middleware.WSGIApp object at 0x103db2890>
+2024-03-11 00:12:34,922 - [INFO | emit2.py:18 > Create new handler for new connection
+2024-03-11 00:13:05,992 - [INFO | emit2.py:12 > Create new socketio Server <socketio.server.Server object at 0x101c52800>
+2024-03-11 00:13:05,992 - [INFO | emit2.py:14 > Create new wsgi app <socketio.middleware.WSGIApp object at 0x101c52890>
+2024-03-11 00:13:05,992 - [INFO | emit2.py:18 > Create new handler for new connection
+2024-03-11 00:13:05,993 - [INFO | emit2.py:27 > Delete user from active users list
+2024-03-11 00:13:52,218 - [INFO | emit2.py:12 > Create new socketio Server <socketio.server.Server object at 0x1025c6950>
+2024-03-11 00:13:52,219 - [INFO | emit2.py:14 > Create new wsgi app <socketio.middleware.WSGIApp object at 0x1025c69e0>
+2024-03-11 00:13:52,219 - [INFO | emit2.py:18 > Create new handler for new connection
+2024-03-11 00:13:52,219 - [INFO | emit2.py:27 > Delete user from active users list
+2024-03-11 00:14:18,973 - [INFO | emit2.py:12 > Create new socketio Server <socketio.server.Server object at 0x105a62950>
+2024-03-11 00:14:18,973 - [INFO | emit2.py:14 > Create new wsgi app <socketio.middleware.WSGIApp object at 0x105a629e0>
+2024-03-11 00:14:18,973 - [INFO | emit2.py:18 > Create new handler for new connection
+2024-03-11 00:14:18,973 - [INFO | emit2.py:27 > Delete user from active users list
+2024-03-11 00:14:39,178 - [INFO | emit2.py:12 > Create new socketio Server <socketio.server.Server object at 0x10271a950>
+2024-03-11 00:14:39,178 - [INFO | emit2.py:14 > Create new wsgi app <socketio.middleware.WSGIApp object at 0x10271a9e0>
+2024-03-11 00:14:39,178 - [INFO | emit2.py:18 > Create new handler for new connection
+2024-03-11 00:14:39,178 - [INFO | emit2.py:27 > Delete user from active users list
+2024-03-11 00:14:46,068 - [INFO | emit2.py:22 > Add new connection to list ['S0VILtuP4nEtbmU-AAAB']
+2024-03-11 00:14:46,069 - [INFO | emit2.py:24 > Send message to all users except this about active connections
+2024-03-11 00:14:49,749 - [INFO | emit2.py:22 > Add new connection to list ['S0VILtuP4nEtbmU-AAAB', 'oZsLx_MWome9lQyCAAAD']
+2024-03-11 00:14:49,750 - [INFO | emit2.py:24 > Send message to all users except this about active connections
+2024-03-11 00:29:06,887 - [INFO | emit3.py:10 > create new socket io server
+2024-03-11 00:29:06,896 - [INFO | emit3.py:13 > Create new wsgi app
+2024-03-11 00:29:06,896 - [INFO | emit3.py:16 > create new list for active connections
+2024-03-11 00:29:06,896 - [INFO | emit3.py:19 > Add handler for new connections
+2024-03-11 00:29:06,896 - [INFO | emit3.py:27 > Add new handler for disconnections
+2024-03-11 00:29:06,896 - [INFO | emit3.py:35 > StartUp webserver
+2024-03-11 00:29:12,627 - [INFO | emit3.py:22 > Add sid to lst
+2024-03-11 00:29:17,417 - [INFO | emit3.py:22 > Add sid to lst
+2024-03-11 00:29:20,709 - [INFO | emit3.py:30 > Remove sid from lst
+2024-03-11 00:29:31,955 - [INFO | emit3.py:30 > Remove sid from lst
+2024-03-11 00:37:57,066 - [INFO | emit3.py:10 > create new socket io server
+2024-03-11 00:37:57,074 - [INFO | emit3.py:13 > Create new wsgi app
+2024-03-11 00:37:57,074 - [INFO | emit3.py:16 > create new list for active connections
+2024-03-11 00:37:57,074 - [INFO | emit3.py:19 > Add handler for new connections
+2024-03-11 00:37:57,074 - [INFO | emit3.py:27 > Add new handler for disconnections
+2024-03-11 00:37:57,074 - [INFO | emit3.py:35 > StartUp webserver
