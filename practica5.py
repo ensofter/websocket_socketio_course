@@ -3,6 +3,7 @@ import socketio
 import logger
 from fastapi import FastAPI
 from fastapi.websockets import WebSocket
+from typing import Any, Dict
 
 
 log = logger.MyLogger()
@@ -26,6 +27,11 @@ def main():
     @app.get("/")
     async def get_index():
         await sio.emit("message", "hello everyone")
+
+    @app.post('/')
+    async def post_index(request: Dict[Any, Any]):
+        data = request['message']
+        await sio.emit('message', data)
 
     uvicorn.run(socket_app, host='localhost', port=12345)
 
