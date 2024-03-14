@@ -1,0 +1,42 @@
+2024-03-14 23:37:00,509 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x101d57ee0>
+2024-03-14 23:37:00,509 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x101684dc0>
+2024-03-14 23:38:10,193 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x10426fee0>
+2024-03-14 23:38:10,194 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x103b9cdc0>
+2024-03-14 23:38:43,403 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x103983ee0>
+2024-03-14 23:38:43,404 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x1032b0dc0>
+2024-03-14 23:39:12,527 - [INFO | room_ex1.py:18 > Присоединился пользователь cygpzSC9nkCyD17mAAAB
+2024-03-14 23:40:04,003 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:40:47,981 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x1043a3ee0>
+2024-03-14 23:40:47,981 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x103cd0dc0>
+2024-03-14 23:40:52,047 - [INFO | room_ex1.py:18 > Присоединился пользователь TkCWA0Lc6o1fJHXjAAAB
+2024-03-14 23:40:55,859 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:41:54,712 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x1041d7f40>
+2024-03-14 23:41:54,712 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x103b064d0>
+2024-03-14 23:41:58,451 - [INFO | room_ex1.py:18 > Присоединился пользователь QQnik5IZjqDWJWqWAAAB
+2024-03-14 23:42:01,357 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:42:37,825 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x104dcbf40>
+2024-03-14 23:42:37,825 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x1045ee4d0>
+2024-03-14 23:42:42,452 - [INFO | room_ex1.py:18 > Присоединился пользователь yNGo609qtjQWzDxaAAAB
+2024-03-14 23:42:42,466 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:43:37,934 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x105344eb0>
+2024-03-14 23:43:37,934 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x105a4c070>
+2024-03-14 23:43:40,353 - [INFO | room_ex1.py:18 > Присоединился пользователь DFc1sUB2T-rmKO2lAAAB
+2024-03-14 23:43:42,167 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:44:19,848 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x1012e4ee0>
+2024-03-14 23:44:19,848 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x1019ec040>
+2024-03-14 23:44:21,960 - [INFO | room_ex1.py:18 > Присоединился пользователь 7fLE-UZQFZozgN_PAAAB
+2024-03-14 23:44:23,954 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:45:01,683 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x102120040>
+2024-03-14 23:45:01,683 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x1021200d0>
+2024-03-14 23:45:03,565 - [INFO | room_ex1.py:18 > Присоединился пользователь PLVFDkdhMQjup5KNAAAB
+2024-03-14 23:45:04,853 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:48:20,035 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x1021da5f0>
+2024-03-14 23:48:20,035 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x1028e00a0>
+2024-03-14 23:48:23,007 - [INFO | room_ex1.py:18 > Присоединился пользователь OwmWpskDClrDdWCrAAAB
+2024-03-14 23:48:24,779 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:48:55,963 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:49:24,729 - [INFO | room_ex1.py:12 > Инициализировали вебсокет сервер <socketio.server.Server object at 0x10655ff40>
+2024-03-14 23:49:24,729 - [INFO | room_ex1.py:14 > Инициализировали wsgi приложение <socketio.middleware.WSGIApp object at 0x105e8e4d0>
+2024-03-14 23:49:28,241 - [INFO | room_ex1.py:18 > Присоединился пользователь N_8TTa9cy2hL3cQIAAAB
+2024-03-14 23:49:29,667 - [INFO | room_ex1.py:23 > Обработчик для команды Join
+2024-03-14 23:50:31,554 - [INFO | room_ex1.py:30 > Обработчик для команды message в команту
