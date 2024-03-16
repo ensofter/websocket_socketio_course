@@ -1,0 +1,8 @@
+2024-03-16 18:26:47,659 - [INFO | session_base_ex.py:15 > Клиент uRS9iWCLZxft0_vhAAAB подключен
+2024-03-16 18:26:52,986 - [INFO | session_base_ex.py:15 > Клиент 7TXAEJ3x65YR1tfPAAAD подключен
+2024-03-16 18:26:54,650 - [INFO | session_base_ex.py:15 > Клиент ET0rWWgNUOpHgrD_AAAF подключен
+2024-03-16 18:27:33,605 - [INFO | session_base_ex.py:25 > Пользователь AlexPorker присоединился
+2024-03-16 18:28:12,070 - [INFO | session_base_ex.py:31 > Пользователь AlexPorker пишет в чат WordUp bich
+2024-03-16 18:28:21,351 - [INFO | session_base_ex.py:19 > Клиент uRS9iWCLZxft0_vhAAAB отключен
+2024-03-16 18:28:21,353 - [INFO | session_base_ex.py:19 > Клиент 7TXAEJ3x65YR1tfPAAAD отключен
+2024-03-16 18:28:21,353 - [INFO | session_base_ex.py:19 > Клиент ET0rWWgNUOpHgrD_AAAF отключен
