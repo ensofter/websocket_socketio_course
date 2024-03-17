@@ -1,0 +1,15 @@
+2024-03-17 19:38:34.832 | WARNING  | __main__:main:17 - Создали сервер сокетов <socketio.server.Server object at 0x106864430>
+2024-03-17 19:38:34.833 | WARNING  | __main__:main:20 - Создали wsgi приложение <socketio.middleware.WSGIApp object at 0x1068646d0>
+2024-03-17 19:38:34.833 | WARNING  | __main__:main:36 - Запуск сервера на хосте и порту ('localhost', 12345)
+2024-03-17 19:38:34.833 | WARNING  | __main__:main:42 - Произошло падение по причине 'tuple' object has no attribute 'getsockname'
+2024-03-17 19:39:23.723 | WARNING  | __main__:main:17 - Создали сервер сокетов <socketio.server.Server object at 0x101db4490>
+2024-03-17 19:39:23.723 | WARNING  | __main__:main:20 - Создали wsgi приложение <socketio.middleware.WSGIApp object at 0x101db4730>
+2024-03-17 19:39:23.724 | WARNING  | __main__:main:36 - Запуск сервера на хосте и порту ('localhost', 12345)
+2024-03-17 19:39:30.261 | WARNING  | __main__:connect:24 - Обработчик для всех законнектившихся пользователей
+2024-03-17 19:39:32.102 | WARNING  | __main__:connect:24 - Обработчик для всех законнектившихся пользователей
+2024-03-17 19:39:34.032 | WARNING  | __main__:connect:24 - Обработчик для всех законнектившихся пользователей
+2024-03-17 19:41:04.850 | WARNING  | __main__:echo:32 - Полученно сообщение от FlBjqEXWXtnHIqIZAAAD: {'room': 'asd'}
+2024-03-17 19:41:04.851 | WARNING  | __main__:echo:34 - Это ответ на сообщение отправлено клиенту FlBjqEXWXtnHIqIZAAAD
+2024-03-17 19:44:50.934 | WARNING  | __main__:disconnect:28 - Обрабочик для всех отключившихся пользователей
+2024-03-17 19:44:50.934 | WARNING  | __main__:disconnect:28 - Обрабочик для всех отключившихся пользователей
+2024-03-17 19:44:50.935 | WARNING  | __main__:disconnect:28 - Обрабочик для всех отключившихся пользователей
