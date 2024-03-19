@@ -3,8 +3,7 @@ from loguru import logger
 import sys
 
 
-l_format = '<green>{time}</green><yellow>{name}</yellow><red>{message}</red>'
-logger.add(sys.stdout, colorize=True, level='DEBUG', format=l_format)
+logger.add(sys.stdout, level='DEBUG')
 
 
 def main():
