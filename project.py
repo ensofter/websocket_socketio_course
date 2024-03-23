@@ -44,6 +44,7 @@ def main():
         if users[sid]['index'] < len(riddles):
             users[sid]['index'] += 1
         else:
+            sio.emit('end', to=sid, data={'text': 'Игра закончилась'})
             users[sid]['index'] = 0
         sio.emit('score', to=sid, data={'value': users[sid]['score']})
 
