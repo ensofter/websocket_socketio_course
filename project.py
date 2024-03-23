@@ -28,7 +28,10 @@ def main():
         logger.info(f'Пользователь {sid} начал игру')
         logger.info(f'Отправляем первую загадку')
         index = users[sid]['index']
-        sio.emit('riddle', to=sid, data=riddles[index]['text'])
+        if index < len(riddles):
+            sio.emit('riddle', to=sid, data=riddles[index]['text'])
+        else:
+            sio.emit('end', to=sid, data={'text': 'игра окончена'})
 
     @sio.on('answer')
     def answer_handler(sid, data):
@@ -41,11 +44,7 @@ def main():
             users[sid]['score'] += 1
         else:
             sio.emit('result', to=sid, data={'riddle': riddles[index]['text'], 'is_correct': False, 'answer': riddles[index]['answer']})
-        if users[sid]['index'] < len(riddles):
-            users[sid]['index'] += 1
-        else:
-            sio.emit('end', to=sid, data={'text': 'Игра закончилась'})
-            users[sid]['index'] = 0
+        users[sid]['index'] += 1
         sio.emit('score', to=sid, data={'value': users[sid]['score']})
 
 
